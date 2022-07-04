@@ -1,7 +1,5 @@
-import Head from 'next/head'
-import Image from 'next/image'
 import { useState } from 'react'
-import { NFTCard } from "./components/nftCard"
+import { NFTCard } from "../components/nftCard"
 
 const Home = () => {
   // Create Two Variables to Store Wallet and Collection Addresses
